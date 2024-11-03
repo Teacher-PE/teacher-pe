@@ -3,14 +3,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :metal: Умею:
+### :Умею:
 <ul>
 <li>Проведение А/В тестов и bootstrap, регрессионного и когортного анализа с помощью python
-<li>SQL: вложенные запросы, оконные функции, конструкции case
+<li>SQL: СТЕ, оконные функции, конструкции case
 <li>Написание ad-hoc запросов
 <li>Работа над проектами в системе контроля версий git
 <li>Формирование дашбордов
-<li>Расчет ключевых метрик продукта: ARPU, ARPPU, retention, conversion, churn rate
+<li>Расчет ключевых метрик продукта
 <li>Автоматизация процессов через Airflow
 </ul>
 
