@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :Умею:
+### Умею:
 <ul>
 <li>Проведение А/В тестов и bootstrap, регрессионного и когортного анализа с помощью python
 <li>SQL: СТЕ, оконные функции, конструкции case
